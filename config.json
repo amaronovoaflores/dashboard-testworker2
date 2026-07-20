@@ -1,5 +1,12 @@
 {
   "empresa": {
-    "nombre": "Cliente Prueba Worker 2"
-  }
+    "nombre": "Cliente Prueba Admin",
+    "ruc": "20999999999"
+  },
+  "titulares": [],
+  "clientes": [],
+  "vehiculos": [],
+  "cuentas": {},
+  "igv": 0.18,
+  "detraccion": 0.1
 }
